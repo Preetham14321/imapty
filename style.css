@@ -241,19 +241,17 @@ a:visited {
 
   .sidebar {
     display: inline-block;
-    height: 37vh;
+    height: 54vh;
   }
   .workouts {
     height: 30vh;
   }
   #map {
-    width: 100vw;
-    height: 62vh;
+    width: 137vw;
+    height: 72vh;
     display: flex;
-
     position: absolute;
-
-    top: 20em;
+    top: 35em;
   }
   element.style {
     position: absolute;
