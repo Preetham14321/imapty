@@ -250,7 +250,7 @@ a:visited {
     width: 137vw;
     height: 72vh;
     display: flex;
-    position: absolute;
+    position: fixed;
     top: 35em;
   }
   element.style {
