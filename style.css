@@ -241,10 +241,10 @@ a:visited {
 
   .sidebar {
     display: inline-block;
-    height: 54vh;
+    height: 66vh;
   }
   .workouts {
-    height: 30vh;
+    height: 43vh;
   }
   #map {
     width: 137vw;
